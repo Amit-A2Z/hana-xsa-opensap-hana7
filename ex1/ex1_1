@@ -35,7 +35,7 @@ resources:
   - name: openSAPHANA_<group number>-uaa
     type: com.sap.xs.uaa-space
     parameters:
-      path: ./xs-security.json
+      config_path: ./xs-security.json
 
 
 
